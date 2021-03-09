@@ -17,3 +17,7 @@
 ## <ins>How to use
 1. Click `Set Capture Key` and press the key for capture
 2. Now you can press that key and it will select the cursor color
+
+```diff
+Any issue, pull request or DM to alejandromume#0884
+``` 
